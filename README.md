@@ -10,5 +10,5 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode e GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, GitHub e Notion.</strong>
 </p>
